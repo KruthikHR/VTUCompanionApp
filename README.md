@@ -1,3 +1,7 @@
 # VTUCompanionApp
-This project is mainly help the vtu students to calculate there CGPA and SGPA
-This project will run on the android studio software 
+
+1. Launch Android Studio
+2. Click on 'Open Project'
+3. Choose VTU Companion App
+4. Wait for gradle execution
+5. Run the App 
